@@ -5,3 +5,11 @@
       K Shell（/usr/bin/ksh）
       Shell for Root（/sbin/sh）
 # 最常用的shell是Bash，也就是Bourne Again Shell。Bash由于易用和免费，在日常工作中被广泛使用，也是大多数Linux操作系统默认的Shell环境。
+
+shell 编程有哪些注意事项
+
+shell 命名：Shell脚本名称命名一般为英文、大写、小写，后缀以.sh 结尾。
+不能使用特殊符号、空格。
+见闻之意，名称要写的一眼可以看出功能。
+shell 编程 首行需要 #!/bin/bash 开头。
+shell 脚本变量不能以数字、特殊符号开头，可以使用下划线—,但不能用破折号 - 。
