@@ -1,0 +1,7 @@
+# 常见的shell 有哪些
+      Bourne Shell（/usr/bin/sh或/bin/sh）
+      Bourne Again Shell（/bin/bash）
+      C Shell（/usr/bin/csh）
+      K Shell（/usr/bin/ksh）
+      Shell for Root（/sbin/sh）
+# 最常用的shell是Bash，也就是Bourne Again Shell。Bash由于易用和免费，在日常工作中被广泛使用，也是大多数Linux操作系统默认的Shell环境。
